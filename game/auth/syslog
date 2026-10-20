@@ -1,0 +1,125 @@
+Jun 23 21:06:28 :: SYSTEM: new connection from [192.168.1.20] fd: 15 handshake 4211269471 output input_len 0, ptr 0x29504000
+Jun 23 21:06:28 :: Handshake: lower than zero -1
+Jun 23 21:06:29 :: Handshake: client_time 0 server_time 6492043
+Jun 23 21:06:29 :: AUTH_PHASE 0x29504000
+Jun 23 21:06:29 :: InputAuth::Login : bestpro(7) desc 0x29504000
+Jun 23 21:06:29 :: SetLoginKey 492003385
+Jun 23 21:06:29 :: InputAuth::Login : key 492003385:0x60453fd9 login bestpro
+Jun 23 21:06:29 :: QID_AUTH_LOGIN: START 492003385 0x29504000
+Jun 23 21:06:29 :: Create_Time 0 19700101
+Jun 23 21:06:29 :: Block Time -2 
+Jun 23 21:06:29 :: SendAuthLogin bestpro language 16 key 1
+Jun 23 21:06:29 :: QID_AUTH_LOGIN: SUCCESS bestpro
+Jun 23 21:06:29 :: AuthLogin result 1 key 492003385
+Jun 23 21:06:29 :: SYSTEM: closing socket. DESC #15
+Jun 23 21:10:04 :: SYSTEM: new connection from [192.168.1.20] fd: 15 handshake 4285080729 output input_len 0, ptr 0x29504000
+Jun 23 21:10:04 :: Handshake: lower than zero -1
+Jun 23 21:10:04 :: Handshake: client_time 0 server_time 6707846
+Jun 23 21:10:04 :: AUTH_PHASE 0x29504000
+Jun 23 21:10:05 :: InputAuth::Login : bestpro(7) desc 0x29504000
+Jun 23 21:10:05 :: SetLoginKey 1331442880
+Jun 23 21:10:05 :: InputAuth::Login : key 1331442880:0x4e89e1bc login bestpro
+Jun 23 21:10:05 :: QID_AUTH_LOGIN: START 1331442880 0x29504000
+Jun 23 21:10:05 :: Create_Time 0 19700101
+Jun 23 21:10:05 :: Block Time -2 
+Jun 23 21:10:05 :: SendAuthLogin bestpro language 16 key 1
+Jun 23 21:10:05 :: QID_AUTH_LOGIN: SUCCESS bestpro
+Jun 23 21:10:05 :: AuthLogin result 1 key 1331442880
+Jun 23 21:10:05 :: SYSTEM: closing socket. DESC #15
+Jun 23 21:12:20 :: SYSTEM: new connection from [192.168.1.20] fd: 15 handshake 421017494 output input_len 0, ptr 0x29504000
+Jun 23 21:12:20 :: Handshake: client_time 0 server_time 6843366
+Jun 23 21:12:20 :: AUTH_PHASE 0x29504000
+Jun 23 21:12:20 :: InputAuth::Login : bestpro(7) desc 0x29504000
+Jun 23 21:12:20 :: SetLoginKey 1203709390
+Jun 23 21:12:20 :: InputAuth::Login : key 1203709390:0xd06ea81 login bestpro
+Jun 23 21:12:20 :: QID_AUTH_LOGIN: START 1203709390 0x29504000
+Jun 23 21:12:20 :: Create_Time 0 19700101
+Jun 23 21:12:20 :: Block Time -2 
+Jun 23 21:12:20 :: SendAuthLogin bestpro language 16 key 1
+Jun 23 21:12:20 :: QID_AUTH_LOGIN: SUCCESS bestpro
+Jun 23 21:12:20 :: AuthLogin result 1 key 1203709390
+Jun 23 21:12:20 :: SYSTEM: closing socket. DESC #15
+Jun 23 21:14:28 :: SYSTEM: new connection from [192.168.1.20] fd: 15 handshake 3661600852 output input_len 0, ptr 0x29504000
+Jun 23 21:14:28 :: Handshake: client_time 0 server_time 6971245
+Jun 23 21:14:28 :: AUTH_PHASE 0x29504000
+Jun 23 21:14:28 :: InputAuth::Login : bestpro(7) desc 0x29504000
+Jun 23 21:14:28 :: SetLoginKey 265158243
+Jun 23 21:14:28 :: InputAuth::Login : key 265158243:0x7b27ef94 login bestpro
+Jun 23 21:14:28 :: QID_AUTH_LOGIN: START 265158243 0x29504000
+Jun 23 21:14:28 :: Create_Time 0 19700101
+Jun 23 21:14:28 :: Block Time -2 
+Jun 23 21:14:28 :: SendAuthLogin bestpro language 1 key 1
+Jun 23 21:14:28 :: QID_AUTH_LOGIN: SUCCESS bestpro
+Jun 23 21:14:28 :: AuthLogin result 1 key 265158243
+Jun 23 21:14:28 :: SYSTEM: closing socket. DESC #15
+Jun 23 21:15:17 :: SYSTEM: new connection from [192.168.1.20] fd: 15 handshake 1683891080 output input_len 0, ptr 0x29504000
+Jun 23 21:15:17 :: Handshake: client_time 0 server_time 7020807
+Jun 23 21:15:17 :: AUTH_PHASE 0x29504000
+Jun 23 21:15:17 :: InputAuth::Login : bestpro(7) desc 0x29504000
+Jun 23 21:15:17 :: SetLoginKey 111233697
+Jun 23 21:15:17 :: InputAuth::Login : key 111233697:0x187de989 login bestpro
+Jun 23 21:15:18 :: QID_AUTH_LOGIN: START 111233697 0x29504000
+Jun 23 21:15:18 :: Create_Time 0 19700101
+Jun 23 21:15:18 :: Block Time -2 
+Jun 23 21:15:18 :: SendAuthLogin bestpro language 16 key 1
+Jun 23 21:15:18 :: QID_AUTH_LOGIN: SUCCESS bestpro
+Jun 23 21:15:18 :: AuthLogin result 1 key 111233697
+Jun 23 21:15:18 :: SYSTEM: closing socket. DESC #15
+Oct 20 03:49:08 :: 
+Start of pid: 882
+
+Oct 20 03:49:08 :: SYSTEM: BINDING TCP PORT ON [30001] (fd 12)
+Oct 20 03:49:08 :: SYSTEM: BINDING TCP PORT ON [30002] (fd 13)
+Oct 20 03:49:08 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+Oct 20 03:49:08 :: SYSTEM: connected to server (fd 14, ptr 0x29504600)
+Oct 20 03:49:08 :: Initializing Guild
+Oct 20 03:49:08 ::  No need for auth server
+Oct 20 03:49:08 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+Oct 20 03:49:08 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+Oct 20 03:49:08 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+Oct 20 03:49:08 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+Oct 20 03:49:08 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+Oct 20 03:49:08 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+Oct 20 03:49:08 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+Oct 20 03:49:08 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+Oct 20 03:49:08 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+Oct 20 03:49:08 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+Oct 20 03:49:08 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+Oct 20 03:49:08 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+Oct 20 03:49:08 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+Oct 20 03:49:08 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+Oct 20 03:49:08 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+Oct 20 03:49:08 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+Oct 20 03:49:08 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+Oct 20 03:49:08 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+Oct 20 03:49:08 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+Oct 20 03:49:08 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+Oct 20 03:49:08 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+Oct 20 03:49:08 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+Oct 20 03:49:08 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+Oct 20 03:49:08 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+Oct 20 03:49:08 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+Oct 20 03:49:08 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+Oct 20 03:49:08 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+Oct 20 03:49:08 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+Oct 20 03:49:08 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+Oct 20 03:49:08 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+Oct 20 03:49:08 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+Oct 20 03:49:08 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+Oct 20 03:49:08 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+Oct 20 03:49:08 :: FISH: ¼±¿ÕÀÇ Àå°©              vnum 70051 prob   25   25  200  100 len 0 0 0
+Oct 20 03:49:08 :: FISH: ±Ýµ¢¾î¸®                 vnum 80008 prob   25   25  100  100 len 0 0 0
+Oct 20 03:49:08 :: FISH: Àº¿­¼è                   vnum 50009 prob    0    0  150  100 len 0 0 0
+Oct 20 03:49:08 :: FISH: ±Ý¿­¼è                   vnum 50008 prob    0    0  100   50 len 0 0 0
+Oct 20 03:49:08 :: FISH: prob table 0 9950
+Oct 20 03:49:08 :: FISH: prob table 1 9950
+Oct 20 03:49:08 :: FISH: prob table 2 9800
+Oct 20 03:49:08 :: FISH: prob table 3 9900
+Oct 20 03:49:08 :: CubeRenewal_Init locale/europe/cube.txt
+Oct 20 03:49:08 :: Blend_Item_init locale/europe/blend.txt 
+Oct 20 03:49:08 :: [ZODIAC] Initialize loaded!
+Oct 20 03:49:08 :: DungeonInfoInit locale/europe/dungeon_info.txt
+Oct 20 03:49:08 :: [PackageCryptInfo] . is not crypt file. pass!
+Oct 20 03:49:08 :: [PackageCryptInfo] .. is not crypt file. pass!
+Oct 20 03:49:38 :: [ZODIAC] SpawnPortals_done!
+Oct 20 03:49:38 :: [ZODIAC] Spawn function after IsDaily accomplished!
